@@ -72,7 +72,3 @@ app.post('/failure', (req, res) =>{
 app.listen(process.env.PORT || 3000, () => {
     console.log(`Server running at http://localhost:${port}`)
 })
-
-//8a136a37b8.
-//46b212ecdec721952cb82eaf883ed1ed-us20
-//
